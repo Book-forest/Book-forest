@@ -1,4 +1,4 @@
-- QWQ Hi, I’m @Book-forest
+- QWQ Hi, I’m Book-forest
 
 <!---
 Book-forest/Book-forest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
